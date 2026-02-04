@@ -16,12 +16,3 @@ I like this color scheme. And want to use a simple layout like this:
 I like this login page with the design in the background and the login a blurry layer over it
 
 <img width="657" height="296" alt="image" src="https://github.com/user-attachments/assets/2784d813-f0f4-4041-a327-2f6a0341ea0e" />
-
-
-this is a clean css
-```html
-@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css');
-@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css');
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&family=Rubik+Mono+One&display=swap');
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
-
